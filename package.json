@@ -1,0 +1,19 @@
+{
+  "name": "motion-activity-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "framer-motion": "14.3.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "16.3.0",
+    "@vitejs/plugin-react": "5.0.4",
+    "jsdom": "26.1.0",
+    "vitest": "3.2.4"
+  }
+}
